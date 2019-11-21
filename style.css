@@ -1,3 +1,24 @@
+/* task 1 */
 .esports-info {
   display: inline-block;
+  width: 32%;
+  height: 25rem;
+  border: 3px solid #ccc;
+  overflow: scroll;
+}
+
+.esports-info-img{
+  width: 100%;
+  height: auto;
+}
+
+/* task 2 */
+.esports-tournaments {
+  width: 100%;
+}
+
+.dota-tournament-img {
+  width: 50%;
+  float: left;
+  margin: 0 1rem 1rem 0;
 }
